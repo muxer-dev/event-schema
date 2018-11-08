@@ -1,0 +1,24 @@
+{
+  "name": "@muxer/event-schema",
+  "version": "1.0.0",
+  "description": "JSON schema defining event object",
+  "main": "event-schema.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muxer-dev/event-schema.git"
+  },
+  "keywords": [
+    "json",
+    "schema",
+    "event"
+  ],
+  "author": "Alistair Brown <npm@alistairjcbrown.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muxer-dev/event-schema/issues"
+  },
+  "homepage": "https://github.com/muxer-dev/event-schema#readme"
+}
